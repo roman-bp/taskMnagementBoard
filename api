@@ -1,0 +1,7 @@
+     apiKey: "AIzaSyDk2SzrlhfMdhcC76lKhVNiNZg-qTNJt0s",
+        authDomain: "taskcat-b47fc.firebaseapp.com",
+        projectId: "taskcat-b47fc",
+        databaseURL: "https://taskcat-b47fc-default-rtdb.europe-west1.firebasedatabase.app",  // Виправлений URL
+        messagingSenderId: "606721842068",
+        appId: "1:606721842068:web:92e527fa6013d36a314d81",
+        measurementId: "G-VHR0WVKS9Z"
